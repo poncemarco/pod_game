@@ -1,0 +1,17 @@
+#Crear cancha
+objeto: score, pong, ball
+
+
+#Crear pongs
+
+#Hacer que la computadora responda a arriba y abajo
+
+#Hacer seguidor de pelota
+
+#Detectar colision de pelota
+
+#Detectar fin de cancha
+
+#Responder la pelota
+
+#Anotar marcador
